@@ -7,21 +7,7 @@ import Unity_Image_Bg_2 from "../../images/About_1_Image.jpg";
 const EhTradeBgCards = () => {
   return (
     <>
-      <header className="ehtrade_header">
-        <div className="ehtrade_header__container">
-          <div className="ehtrade_header__container-bg">
-            <img src={Unity_Image_Bg_2} alt="ehtrade_Header bg Image" />
-          </div>
-          <div className="ehtrade_header__content">
-            <h2 className="ehtrade_about_h2">Unity</h2>
-            <p>
-              Unity Consulting MMC 5 ildən çoxdurki mühasibatlıq,vergi,audit və
-              dizaynla məşğuldur. Bir çox sahibkarlara vgömrük rəsmiləşdirilməsi
-              xidmətlərində dəstək göstərmişdir.
-            </p>
-          </div>
-        </div>
-      </header>
+     
       <div className="ehtrade_bg">
         <div className="ehtrade_bg-container">
           <div className="ehtrade_bg-container_left">
